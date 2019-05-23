@@ -3,7 +3,7 @@ This sample ARM template creates a VM in Azure Comercial or Azure Gov,
 and runs a PowerShell Script on the VM using Custom Script Extension.
 
 Go to Azure Docs For more about 
-[Azure Custom Script Extension!](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows)
+[Azure Custom Script Extension](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows)
 
 ## Pre-requisites
 * A Storage Account
